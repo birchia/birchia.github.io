@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: weebly.com
+Token: 0177a97cb5ea636fc4ceedb38d1363eaa7cbf053af18091bf013eb2e1fcf3563
